@@ -11,3 +11,6 @@
 {"level":"DEBUG","time":"2023-10-07T19:20:59.803+0800","caller":"bluebell/main.go:41","msg":"logger init success"}
 {"level":"INFO","time":"2023-10-07T19:21:34.713+0800","caller":"logger/logger.go:67","msg":"/api/v1/posts2","status":404,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36","errors":"","cost":0}
 {"level":"INFO","time":"2023-10-07T19:21:40.242+0800","caller":"logger/logger.go:67","msg":"/api/v1/posts2","status":404,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2023-10-07T19:30:47.766+0800","caller":"bluebell/main.go:86","msg":"Shutdown Server..."}
+{"level":"DEBUG","time":"2023-10-07T19:40:46.658+0800","caller":"bluebell/main.go:41","msg":"logger init success"}
+{"level":"INFO","time":"2023-10-07T19:41:12.556+0800","caller":"bluebell/main.go:86","msg":"Shutdown Server..."}
